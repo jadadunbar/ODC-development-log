@@ -4,3 +4,4 @@ Created Modelling Data 5/18/2026
 Created Modelling Data Relationships 5/18/2026  
 Created Widgets Exercise app 5/18/2026  
 Created Calculator app 5/19/2026  
+Published Calculator app and started beta testing 5/20/2026
